@@ -1,0 +1,63 @@
+/* ---- Main: ---- */
+
+body {
+    background-color: rgb(177, 172, 172);
+    text-align: center;
+    color: black;
+}
+
+/* ---- Headers: ---- */
+
+h1 {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+h2 {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+h3 {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+h4 {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+h5 {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+/* ---- Other: ---- */
+
+.biggest {
+    font-size: 80px;
+}
+
+.center {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.large {
+    font-size: 60px;
+}
