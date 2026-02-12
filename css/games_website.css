@@ -11,8 +11,8 @@ p {
     text-indent: 3em;
     margin-top: 0vw;
     margin-bottom: 0vw;
-    margin-right: 10vw;
-    margin-left: 10vw;
+    margin-right: 20vw;
+    margin-left: 20vw;
 }
 
 /* ------------ Headers: ------------ */
@@ -80,6 +80,13 @@ div {
     text-align: center;
 }
 
+.credits {
+    background-color: rgb(177, 172, 172);
+    text-align: left;
+    font-size: 1vw;
+    text-indent: 0em;
+}
+
 .large {
     font-size: 6vw;
 }
@@ -96,9 +103,22 @@ div {
 
 /* For List Items */
 .list {
-    background-color: white;
+    background-color: rgb(177, 172, 172);
     margin-top: 0vw;
     margin-bottom: 0vw;
     margin-right: 42vw;
     margin-left: 0vw;
+}
+
+.sub {
+    background-color: rgb(177, 172, 172);
+    font-size: 1.2vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+
+.video {
+    text-align: center;
 }
