@@ -1,6 +1,13 @@
-# games_website
--The HTML, CSS, images, and videos for the game discussion website\
--This `home.html` discusses the games, and the `consoles.html` lists the consoles that can host the games\
--There are 5 games (Stardew Valley, Animal Crossing (New Horizons), Fall Guys, Minecraft, and Klondike Solitaire) and 4 consoles (Nintendo Switch, macOS, Windows, and Xbox)\
--As an html file with a stylesheet, images, and videos these files would need to be downloaded or copied into folders to then run the code for the HTML/CSS website\
--If successfully implemented, the code should create a website that displays information about the games and consoles
+# Games_Website
+# How to run the webpage:
+This code is meant to run if 4 conditions are true:
+1. the html file is in a folder called html
+2. the css file is in a folder called css,
+3. the video is in a folder called mp4 which is also in a folder called video
+4. the image is in a folder called image.
+
+These folder are all in one shared folder.
+
+# The alternative:
+This webpage was designed this way to organize the files it uses. Though, the css file and\
+images could just have their links to the folders removed and be placed into a single folder.
