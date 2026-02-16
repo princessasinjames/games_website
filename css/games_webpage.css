@@ -67,7 +67,7 @@ ol {
     text-align: center;
 }
 
-/* To center text for website 2 */
+/* To center text for webpage 2 */
 .center2 {
     text-align: center;
     margin-right: 36vw;
@@ -84,7 +84,7 @@ ol {
     margin-left: 30vw;
 }
 
-/* For credits for website 2 */
+/* For credits for webpage 2 */
 .credits2 {
     background-color: rgb(255, 255, 255);
     text-align: left;
@@ -104,10 +104,12 @@ ol {
     margin-left: 35vw;
 }
 
+/* For large text */
 .large {
     font-size: 6vw;
 }
 
+/* For links */
 .link {
     font-size: 1.2vw;
     background-color: rgb(255, 255, 255);
@@ -115,6 +117,7 @@ ol {
     text-decoration: none;
 }
 
+/* For lists */
 .list {
     font-size: 1.2vw;
     background-color: rgb(255, 255, 255);
@@ -124,6 +127,7 @@ ol {
     margin-left: 38vw;
 }
 
+/* For lists on webpage 2 */
 .list2 {
     font-size: 1.2vw;
     background-color: rgb(255, 255, 255);
@@ -133,6 +137,7 @@ ol {
     margin-left: 40vw;
 }
 
+/* For paragraphs on webpage 2 */
 .p2 {
     background-color: rgb(255, 255, 255);
     font-size: 1.2vw;
@@ -141,6 +146,7 @@ ol {
     margin-left: 36vw;
 }
 
+/* For subtext at the beginning of the webpage */
 .sub {
     background-color: rgb(255, 255, 255);
     font-size: 1.2vw;
@@ -150,10 +156,12 @@ ol {
     margin-left: 26vw;
 }
 
+/* For indentation */
 .tab {
     text-indent: 3em;
 }
 
+/* For videos */
 .video {
     text-align: center;
 }
